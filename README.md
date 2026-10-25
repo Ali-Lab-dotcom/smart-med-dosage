@@ -3,7 +3,7 @@
 An interactive, web-based Clinical Decision Support Tool designed for pediatricians to calculate accurate drug dosages based on a child's weight, preventing critical prescription errors between milligrams and milliliters.
 
 ## 🌐 Live Project
-Check out the working application here: [smart-med-dosage.netlify.app](https://netlify.app)
+Check out the working application here: https://smart-med-dosage.netlify.app/
 
 ## 🩺 Key Features
 - **Weight-Based Calculations:** Instant translation of mg/kg pediatric formulas into exact milliliter (ml) syringe volumes.

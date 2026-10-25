@@ -15,4 +15,5 @@ Check out the working application here: https://smart-med-dosage.netlify.app/
 - **Styling:** Tailwind CSS
 - **Infrastructure & Deployment:** Netlify CI/CD, Git
 
-Disclaimer: This tool is for educational purposes only. It is a prototype Clinical Decision Support Tool and should not be used in real-world medical practice. Always verify drug dosages with official medical guidelines and standard formulas.
+## 💡 Note
+This project was developed as an educational prototype to demonstrate frontend development and UI/UX design skills. It is intended for demonstration purposes only and should not be used for actual clinical decisions.
